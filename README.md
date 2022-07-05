@@ -10,7 +10,6 @@ Estou em transição de carreira, estou atualmente cursando tecnologo em Banco d
 - Me especializar cada vez mais com a área de dados
 - Crescer na carreira como Engenheiro de Dados
 - Contribuir com meus conhecimentos para com a comunidade geral de TI e pessoa com interesse em Engenharia de Dados
-- 
 
 <!-- tecnologias utilziadas -->
 ##
