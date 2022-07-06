@@ -3,7 +3,6 @@
 
 Estou em transição de carreira, estou atualmente cursando tecnologo em Banco de Dados pela Universidade Estácio no 03/05 semestre. Meus objetivos e foco está atualmente voltados para as áreas de Dados, mais voltadas para Engenharia de Dados, Big Data.
 
-##
 
 <!-- meus objetivos -->
 ## Meus objetivos!!
@@ -12,7 +11,6 @@ Estou em transição de carreira, estou atualmente cursando tecnologo em Banco d
 - Contribuir com meus conhecimentos para com a comunidade geral de TI e pessoa com interesse em Engenharia de Dados
 
 <!-- tecnologias utilziadas -->
-##
 ## Tecnologias que eu utilizo | estudo 
    - Python
    - SQL
@@ -37,7 +35,6 @@ Estou em transição de carreira, estou atualmente cursando tecnologo em Banco d
 </div>
 
 
-##
 
 <!-- redes de contatos -->
 <div>
