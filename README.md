@@ -17,7 +17,7 @@ Estou em transição de carreira, estou atualmente cursando tecnologo em Banco d
    - MySQL
    - DBA SQL Server
    - Conceitos sobre ETL e ELT
-   - Conceitos de AWS - com buckets
+   - Conceitos de AWS - com buckets e S3
   
   ### Ferramentas utilizadas
   - Vscode
