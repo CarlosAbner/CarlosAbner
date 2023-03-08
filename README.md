@@ -1,7 +1,7 @@
 <!-- apresentacao  -->
 # Olá!! Eu sou Abner Carlos
 
-Estou em transição de carreira, estou atualmente cursando tecnologo em Banco de Dados pela Universidade Estácio no 03/05 semestre. Meus objetivos e foco está atualmente voltados para as áreas de Dados, mais voltadas para Engenharia de Dados, Big Data.
+Estagiando como Engenheiro de Dados, estou atualmente cursando tecnologo em Banco de Dados pela Universidade Estácio no 04/05 semestre.
 
 
 <!-- meus objetivos -->
