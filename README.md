@@ -1,28 +1,24 @@
 <!-- apresentacao  -->
 # Olá!! Eu sou Abner Carlos
 
-Estagiando como Engenheiro de Dados, estou atualmente cursando tecnologo em Banco de Dados pela Universidade Estácio no 04/05 semestre.
+Business Intelligence assistant, formado em Banco de Dados pela Universidade Estácio.
 
 
 <!-- meus objetivos -->
 ## Meus objetivos!!
 - Me especializar cada vez mais com a área de dados
-- Crescer na carreira como Engenheiro de Dados
-- Contribuir com meus conhecimentos para com a comunidade geral de TI e pessoa com interesse em Engenharia de Dados
+- Crescer na carreira chegando ao niver de Engenheiro de Dados
+- Contribuir com meus conhecimentos para com a comunidade geral de TI e pessoas com interesse na área de dados
 
 <!-- tecnologias utilziadas -->
-## Tecnologias que eu utilizo | estudo 
+## Tecnologias que eu utilizo
    - Python
    - SQL
    - MySQL
    - DBA SQL Server
-   - Conceitos sobre ETL e ELT
+   - Conceitos sobre ETL com Python M-Language e Dax
    - Azure / Azure Data Studio
-  
-  ### Ferramentas utilizadas
-  - Vscode
-  - Jupter 
-  - Google colab
+   - Power BI
   
   
 <div style="display: inline-block"><br>
