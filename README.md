@@ -7,7 +7,7 @@ Business Intelligence assistant, formado em Banco de Dados pela Universidade Est
 <!-- meus objetivos -->
 ## Meus objetivos!!
 - Me especializar cada vez mais com a área de dados
-- Crescer na carreira chegando ao niver de Engenheiro de Dados
+- Crescer na carreira chegando ao nível de Engenheiro de Dados
 - Contribuir com meus conhecimentos para com a comunidade geral de TI e pessoas com interesse na área de dados
 
 <!-- tecnologias utilziadas -->
