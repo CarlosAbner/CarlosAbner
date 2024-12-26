@@ -1,7 +1,8 @@
 <!-- apresentacao  -->
 # Hello, I'm Abner Carlos!
 
-Business Intelligence analyst with a degree in Databases from Estácio University. Currently pursuing a postgraduate degree in Big Data for Data Science.
+
+I started in the data area at the end of 2022 as an intern for an electricity trading company in São Paulo. During the internship process, I was able to carry out some projects involving Power BI, Databases, Python automations and Azure Cloud. After a year of internship, I was hired as an assistant, elevating the work to more automations, dashboards, work done with APIs to strengthen the data for decisions and automations for the company. They trusted my work that I could carry out a recruitment process for an internship position to work with me in the data area. Today I have a degree in Databases and I am doing a postgraduate course in Big Data for data science.
 
 
 
