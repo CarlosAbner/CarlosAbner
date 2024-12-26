@@ -1,22 +1,23 @@
 <!-- apresentacao  -->
-# Olá!! Eu sou Abner Carlos
+# Hello, I'm Abner Carlos!
 
-Business Intelligence assistant, formado em Banco de Dados pela Universidade Estácio.
+Business Intelligence analyst with a degree in Databases from Estácio University. Currently pursuing a postgraduate degree in Big Data for Data Science.
+
 
 
 <!-- meus objetivos -->
-## Meus objetivos!!
-- Me especializar cada vez mais com a área de dados
-- Crescer na carreira chegando ao nível de Engenheiro de Dados
-- Contribuir com meus conhecimentos para com a comunidade geral de TI e pessoas com interesse na área de dados
+## My goals!!
+- To continually enhance my data skills
+- Growing in my career to reach the level of Data Engineer
+- To contribute my knowledge to the general IT community and people interested in the data field.
 
 <!-- tecnologias utilziadas -->
-## Tecnologias que eu utilizo
+## Technologies I use
    - Python
    - SQL
    - MySQL
    - DBA SQL Server
-   - Conceitos sobre ETL com Python M-Language e Dax
+   - ETL with Python and M-Language | Dax
    - Azure / Azure Data Studio
    - Power BI
   
