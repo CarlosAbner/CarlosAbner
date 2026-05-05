@@ -41,6 +41,7 @@ Contributing to open-source projects and the global tech community.
     <td align="center"><img alt="jupyter" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /></td>
     <td align="center"><img alt="mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></td>
     <td align="center"><img alt="sqlserver" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" /></td>
+    <td align="center"><img alt="sql" height="50" width="50" src="https://img.icons8.com/color/48/sql.png" /></td>
     <td align="center"><img alt="python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></td>
     <td align="center"><img alt="vscode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /></td>
     <td align="center"><img alt="java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></td>
@@ -52,6 +53,7 @@ Contributing to open-source projects and the global tech community.
     <td align="center"><sub>Jupyter</sub></td>
     <td align="center"><sub>MySQL</sub></td>
     <td align="center"><sub>SQL Server</sub></td>
+    <td align="center"><sub>SQL</sub></td>
     <td align="center"><sub>Python</sub></td>
     <td align="center"><sub>VS Code</sub></td>
     <td align="center"><sub>Java</sub></td>
@@ -61,11 +63,12 @@ Contributing to open-source projects and the global tech community.
   </tr>
 </table>
 
+<br>*5
 <!-- Redes de contato -->
 <p align="center">
   <a href="https://www.linkedin.com/in/abner-carlos" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:carlosabner17@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="mailto:abner_familha@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
-  <a href="https://instagram.com/abner_carlos.s" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <!-- <a href="https://instagram.com/abner_carlos.s" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> -->
 </p>
 
