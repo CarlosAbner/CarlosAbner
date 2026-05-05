@@ -63,7 +63,10 @@ Contributing to open-source projects and the global tech community.
   </tr>
 </table>
 
-<br>*5
+<br>
+<br>
+<br>
+
 <!-- Redes de contato -->
 <p align="center">
   <a href="https://www.linkedin.com/in/abner-carlos" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
