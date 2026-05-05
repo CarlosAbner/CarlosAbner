@@ -40,6 +40,7 @@ Contributing to open-source projects and the global tech community.
   <tr>
     <td align="center"><img alt="jupyter" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /></td>
     <td align="center"><img alt="mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></td>
+    <td align="center"><img alt="sqlserver" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" /></td>
     <td align="center"><img alt="python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></td>
     <td align="center"><img alt="vscode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /></td>
     <td align="center"><img alt="java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></td>
@@ -50,6 +51,7 @@ Contributing to open-source projects and the global tech community.
   <tr>
     <td align="center"><sub>Jupyter</sub></td>
     <td align="center"><sub>MySQL</sub></td>
+    <td align="center"><sub>SQL Server</sub></td>
     <td align="center"><sub>Python</sub></td>
     <td align="center"><sub>VS Code</sub></td>
     <td align="center"><sub>Java</sub></td>
