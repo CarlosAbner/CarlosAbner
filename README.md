@@ -35,24 +35,35 @@ Contributing to open-source projects and the global tech community.
 
 
    
-<div align="left">
-  <img alt="abner-jupyter" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-  <img alt="abner-mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img alt="abner-python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img alt="abner-vscode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-  <img alt="abner-sql" height="50" width="50" src="https://img.icons8.com/external-dreamstale-lineal-dreamstale/32/000000/external-sql-file-types-dreamstale-lineal-dreamstale.png" />
-  <img alt="abner-java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img alt="abner-docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img alt="abner-pbix" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
-  <img alt="abner-azure" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-</div>
+<!-- Tech Stack Icons -->
+<table align="center" border="0">
+  <tr>
+    <td align="center"><img alt="jupyter" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /></td>
+    <td align="center"><img alt="mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></td>
+    <td align="center"><img alt="python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></td>
+    <td align="center"><img alt="vscode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /></td>
+    <td align="center"><img alt="java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></td>
+    <td align="center"><img alt="docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></td>
+    <td align="center"><img alt="azure" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" /></td>
+    <td align="center"><img alt="powerbi" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" /></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Jupyter</sub></td>
+    <td align="center"><sub>MySQL</sub></td>
+    <td align="center"><sub>Python</sub></td>
+    <td align="center"><sub>VS Code</sub></td>
+    <td align="center"><sub>Java</sub></td>
+    <td align="center"><sub>Docker</sub></td>
+    <td align="center"><sub>Azure</sub></td>
+    <td align="center"><sub>Power BI</sub></td>
+  </tr>
+</table>
 
-<!-- redes de contatos -->
-<div>
+<!-- Redes de contato -->
+<p align="center">
   <a href="https://www.linkedin.com/in/abner-carlos" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:carlosabner17@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="mailto:abner_familha@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
-  <a href="https://instagram.com/abner_carlos.s?utm_medium=copy_link" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>  
-</div>
-
+  <a href="https://instagram.com/abner_carlos.s" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
